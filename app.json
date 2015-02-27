@@ -1,7 +1,7 @@
 {
-    "name": "Anglo-Saxon stone cross",
+    "name": "Anglo-Saxon Stone Cross",
     "short_name": "AScross",
     "thumbnail": "https://farm8.staticflickr.com/7351/15927985104_7572500bce_q.jpg",
-    "description": "Photo masking application",
-    "question": "Draw the outline and/or holes of the main object in the picture"
+    "description": "Photo masking an Anglo-Saxon stone cross",
+    "question": "Draw the outline of the main object in the picture"
 }
